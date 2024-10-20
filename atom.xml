@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://yli96923.github.io</id>
+    <title>Gridea</title>
+    <updated>2024-10-20T10:36:37.425Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://yli96923.github.io"/>
+    <link rel="self" href="https://yli96923.github.io/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://yli96923.github.io/images/avatar.png</logo>
+    <icon>https://yli96923.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[叫你怎么零成本搭建自己的博客]]></title>
+        <id>https://yli96923.github.io/post/jiao-ni-zen-me-ling-cheng-ben-da-jian-zi-ji-de-bo-ke/</id>
+        <link href="https://yli96923.github.io/post/jiao-ni-zen-me-ling-cheng-ben-da-jian-zi-ji-de-bo-ke/">
+        </link>
+        <updated>2024-10-19T22:35:33.000Z</updated>
+        <content type="html"><![CDATA[<p>跟着这个教程来，你就能搭建一个我这样的博客！本次使用的工具是 Gridea 和 Github Pages，Github 上不去的话可能需要梯子辅助。</p>
+<p>首先找到 Gridea 在 Github 上面的项目，不是 Gridea 自己的网站（那个收费）。<a href="https://github.com/getgridea/gridea">也可以点击这个网址</a>直接跳转。在页面的右边找到「Releases」选项，选择最新的一个下载你的操作系统对应的版本然后安装就好了。</p>
+<figure data-type="image" tabindex="1"><img src="https://raw.githubusercontent.com/yli96923/pictures/master/%E6%88%AA%E5%B1%8F2024-10-20%2012.25.06.png?token=BBUKJ2OITMOWXJ3CQTRPQHTHCTNMI" alt="" loading="lazy"></figure>
+<p>安装好了之后，打开 Gridea，在页面左边找到「远程」，然后打开 Github，创建一个仓库，名称叫做「你的用户名.github.io」，然后不用更改其他选项，直接创建就好。然后创建一个 Token，<a href="https://github.com/settings/tokens/new">可以直接点击这个链接跳转</a>，「Note」可以填写一个好记得名字，例如「Gridea」，「Expiration」是这个 Token 的有效期，按需填写，最后在「<strong>Select scopes</strong>」选项里面勾选上「Repo」以及下面的所有选项，然后创建 Token，别忘了<strong>复制下来</strong>，因为关闭页面之后就再也找不到这个 Token 了！</p>
+<figure data-type="image" tabindex="2"><img src="https://raw.githubusercontent.com/yli96923/pictures/master/%E6%88%AA%E5%B1%8F2024-10-20%2012.31.00.png?token=BBUKJ2IWP7NJ2AQ5ZQCRKU3HCTOCO" alt="" loading="lazy"></figure>
+<p>打开 Gridea，选择左边的「远程」选项，根据你的信息配置就好了，大家可以以参考我的配置，不过「域名」「仓库名称」和「仓库用户名」都要填你自己的，「令牌」就是刚刚复制的 Token。随后点击保存和同步，等一会儿再登上你的网站就可以看到内容了！然后再把想要发布的内容在 Gridea 里面发布，就会直接同步到你的网站上，排版什么的都已经完成好了。</p>
+<figure data-type="image" tabindex="3"><img src="https://raw.githubusercontent.com/yli96923/pictures/master/%E6%88%AA%E5%B1%8F2024-10-20%2012.25.56.png?token=BBUKJ2I3XWO7F6NCJBCRHQ3HCTNP2" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+</feed>
