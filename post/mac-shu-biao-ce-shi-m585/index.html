@@ -1,0 +1,144 @@
+<html>
+  <head>
+    <meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Mac 鼠标测试 - M585 | Gridea</title>
+<link rel="shortcut icon" href="https://yli96923.github.io/favicon.ico?v=1751288963303">
+<link href="https://cdn.jsdelivr.net/npm/remixicon@2.3.0/fonts/remixicon.css" rel="stylesheet">
+<link rel="stylesheet" href="https://yli96923.github.io/styles/main.css">
+<link rel="alternate" type="application/atom+xml" title="Mac 鼠标测试 - M585 | Gridea - Atom Feed" href="https://yli96923.github.io/atom.xml">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700">
+
+
+
+    <meta name="description" content="Mac 上找鼠标，一直是困扰苹果用户很久的一个问题。我也一直想给自己的 Mac 配一个鼠标，就是想尝尝鲜，在哔哩哔哩上看了几个视频最后选了罗技的这款入门便宜鼠标 - M585。
+买了之后就把鼠标链接上了电脑，用的是蓝牙，发现总是有一点飘的感..." />
+    <meta name="keywords" content="" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
+    <script src="//cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.5.1/build/highlight.min.js"></script>
+  </head>
+  <body>
+    <div class="main">
+      <div class="main-content">
+        <div class="site-header">
+  <a href="https://yli96923.github.io">
+  <img class="avatar" src="https://yli96923.github.io/images/avatar.png?v=1751288963303" alt="">
+  </a>
+  <h1 class="site-title">
+    Gridea
+  </h1>
+  <p class="site-description">
+    温故而知新
+  </p>
+  <div class="menu-container">
+    
+  </div>
+  <div class="social-container">
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  </div>
+</div>
+
+        <div class="post-detail">
+          <article class="post">
+            <h2 class="post-title">
+              Mac 鼠标测试 - M585
+            </h2>
+            <div class="post-info">
+              <span>
+                2024-11-23
+              </span>
+              <span>
+                1 min read
+              </span>
+              
+            </div>
+            
+            <div class="post-content-wrapper">
+              <div class="post-content" v-pre>
+                <p>Mac 上找鼠标，一直是困扰苹果用户很久的一个问题。我也一直想给自己的 Mac 配一个鼠标，就是想尝尝鲜，在哔哩哔哩上看了几个视频最后选了罗技的这款入门便宜鼠标 - M585。</p>
+<p>买了之后就把鼠标链接上了电脑，用的是蓝牙，发现总是有一点飘的感觉，后来又插上拓展坞再插上接收器，刚刚插上的时候还好，用了一会儿之后就会卡顿，就是拖动光标的过程中就会消失几厘米，然后重新出现。我的电脑是 2020 年 M1 芯片的 MacBook Air，搭配 MacOS Sonoma，用了之后发现还是电脑自带的触控板好用，虽然 M585 有侧键，但还是没有触控板上更加直观的手势操作好用，而且触控板在使用的时候不会有卡顿感。</p>
+<p>没办法，最后还是用回了触控板。</p>
+
+              </div>
+              <div class="toc-container">
+                
+              </div>
+            </div>
+          </article>
+        </div>
+
+        
+          <div class="next-post">
+            <div class="next">下一篇</div>
+            <a href="https://yli96923.github.io/post/zai-mac-shang-zhuang-xu-ni-ji-de-gu-shi/">
+              <h3 class="post-title">
+                在 Mac 上装虚拟机的故事
+              </h3>
+            </a>
+          </div>
+        
+
+        
+
+        <div class="site-footer">
+  Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a>
+  <a class="rss" href="https://yli96923.github.io/atom.xml" target="_blank">
+    <i class="ri-rss-line"></i> RSS
+  </a>
+</div>
+
+      </div>
+    </div>
+
+    <script>
+      hljs.initHighlightingOnLoad()
+
+      let mainNavLinks = document.querySelectorAll(".markdownIt-TOC a");
+
+      // This should probably be throttled.
+      // Especially because it triggers during smooth scrolling.
+      // https://lodash.com/docs/4.17.10#throttle
+      // You could do like...
+      // window.addEventListener("scroll", () => {
+      //    _.throttle(doThatStuff, 100);
+      // });
+      // Only not doing it here to keep this Pen dependency-free.
+
+      window.addEventListener("scroll", event => {
+        let fromTop = window.scrollY;
+
+        mainNavLinks.forEach((link, index) => {
+          let section = document.getElementById(decodeURI(link.hash).substring(1));
+          let nextSection = null
+          if (mainNavLinks[index + 1]) {
+            nextSection = document.getElementById(decodeURI(mainNavLinks[index + 1].hash).substring(1));
+          }
+          if (section.offsetTop <= fromTop) {
+            if (nextSection) {
+              if (nextSection.offsetTop > fromTop) {
+                link.classList.add("current");
+              } else {
+                link.classList.remove("current");    
+              }
+            } else {
+              link.classList.add("current");
+            }
+          } else {
+            link.classList.remove("current");
+          }
+        });
+      });
+
+    </script>
+  </body>
+</html>

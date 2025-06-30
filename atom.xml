@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://yli96923.github.io</id>
+    <title>Gridea</title>
+    <updated>2025-06-30T13:09:26.755Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://yli96923.github.io"/>
+    <link rel="self" href="https://yli96923.github.io/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://yli96923.github.io/images/avatar.png</logo>
+    <icon>https://yli96923.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2025, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[快2025年了，怎么用 Kindle 读一本书？]]></title>
+        <id>https://yli96923.github.io/post/kuai-2025-nian-liao-zen-me-yong-kindle-du-yi-ben-shu/</id>
+        <link href="https://yli96923.github.io/post/kuai-2025-nian-liao-zen-me-yong-kindle-du-yi-ben-shu/">
+        </link>
+        <updated>2024-12-27T21:34:12.000Z</updated>
+        <content type="html"><![CDATA[<p>Kindle 退出中国市场已经一年多了，所以想要解锁 Kindle 完全体的第一步就是注册一个非中国区的亚马逊账号，比如说美国区，具体的方法就不在这里赘述，网上随便找一个教程就可以了。注册完了之后别忘了把 Kindle 登录上同样的账号，要不然注册账号是没有用的。然后你就能发现你的 Kindle 界面大变样，也可以买书了，但是本人是穷鬼学生，都用 Kindle 了肯定是不会再花钱买书的。</p>
+<p>如果你想要不花钱看书的话，那找书就是很重要的一步，也可能是最艰难的一步。这里推荐两个网站：<a href="https://zh.z-lib.gs/?ref=yinghezhinan.com">zlibrary</a>和<a href="https://annas-archive.org/?ref=yinghezhinan.com">安娜的档案</a>，这两个可能需要梯子，但是博主在国外所以也不太清楚。</p>
+<p>下载好了你想看的小说之后，就到了传书这一步。这一步比较主流的有两种方法，一种是通过数据线把 Kindle 连到电脑上，把书通过类似 Calibre 之类的软件传到 Kindle 上。但是这样会有两个问题，一是这些小说只能在 Kindle 上面看，如果也想在手机或着电脑上看的话就无法同步阅读进度；二是无法自定义文档的字体，比如说你自己通过电脑导入 Kindle 的字体是无法在这种方式导入的小说里面更改的。所以我更倾向于第二种办法，用邮件传书，方法也很简单，在手机或电脑上安装 Kindle 软件，苹果的话可以在 App Store 里面找到，名字就叫「Kindle」，安装完成之后打开软件，登陆刚刚注册的外区亚马逊账号，点击右下角的「更多」，找到「设置」，就能看到「发送到KINDLE电子邮箱」，把这个邮箱复制下来，打开你常用的邮件平台，比如说 gmail 或者说 QQ 邮箱，把刚刚复制下来的那个电子邮箱复制到「收件人」那一栏，将下载的小说（一般都是 .epub 格式）放到附件里，发送，过一会儿就好了。通过这种方式你既可以在 Kindle 上使用你自己导入的字体来阅读，也可以在手机、平板、电脑和 Kindle 之间同步你的阅读进度。</p>
+<p>如果你想删除你的小说活着管理你的小说，打开亚马逊官网，在右上角的「Acount and Lists」里面找到「Content and Devices」，点击打开，选择「Docs」就可以看到看到你所有的小说啦！</p>
+<figure data-type="image" tabindex="1"><img src="https://raw.githubusercontent.com/yli96923/pictures/master/%E6%88%AA%E5%B1%8F2024-12-28%2012.30.56.png?token=BBUKJ2MPLVUTHPI5BK7GPHLHN7Q32" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="https://raw.githubusercontent.com/yli96923/pictures/master/%E6%88%AA%E5%B1%8F2024-12-28%2012.31.58.png?token=BBUKJ2OHPAYK4HWDNYIHETLHN7RA2" alt="" loading="lazy"></figure>
+<p>开始愉快的阅读吧。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[别玩手机了，去读点书吧]]></title>
+        <id>https://yli96923.github.io/post/bie-wan-shou-ji-liao-qu-du-dian-shu-ba/</id>
+        <link href="https://yli96923.github.io/post/bie-wan-shou-ji-liao-qu-du-dian-shu-ba/">
+        </link>
+        <updated>2024-12-26T12:47:51.000Z</updated>
+        <content type="html"><![CDATA[<p>最近有在阅读，但是发现总是盯着书，文字却没有读进脑子，就像是小时候听老师讲课的那种「左耳朵进右耳朵出」。我用的是 Kindle，买回来都快十年了，用的次数不多，只有想读书的时候才会找出来，充上电，看一会儿，然后它就又回到了那个一直属于它的角落。但是最近我每天都会检查一下我手机和电脑的屏幕使用时间，发现我用手机的大部分时间都花在小红书和哔哩哔哩上，最近基本不玩游戏（主要是之前玩的圣安地列斯通关了）。使用电脑的大部分时间是在学习，学习之外的时间都是在看哔哩哔哩和美剧。前段时间追完了《无耻之徒》，现在开始追《绝命毒师》了。说句题外话，绝命毒师第一季乃至第二季的进度都有点慢，一度想过弃坑，但是到第三季之后就真的好有意思，每天都看不够。周末的时候手机的使用时间能达到七个小时，电脑的使用时间也能达到七个小时，相当于是醒着的时候全天都在看电子设备，不看不知道，一看真的有点疯狂。</p>
+<p>学习和看美剧的时间绝对是不可能消减，只能减少看小红书和哔哩哔哩的时间了，大概加起来周末有五个小时，平时上学回家之后到睡觉之前那宝贵的六七个小时也有三四个小时花在小红书和哔哩哔哩上。假设我开始戒掉小红书和哔哩哔哩，这些空出来的时间应该干什么呢？那当然是我小时候最喜欢的 - 看书了。</p>
+<p>要从那种不看书的生活回到看书的生活，要么买书，要么看电子书。对于我，我有一个现成的 Kindle，连上电脑，传几本书就好了。书可以在 z-library 下载，通过 calibre 传到 Kindle 上。</p>
+<p>其实我早就想到了，重新开始读书最大的问题就是我们的专注力已经被碎片化的互联网信息给慢慢摧毁了，就像是一个死树，虽然依然站立着，但是早已成为一个空壳。我开始的时候尝试着读了一下《我的前半生》，就是溥仪的那本自传，但是看不进去，可能稍微有点无聊。我又找了东野圭吾写的《白夜行》，终于能够看进去，但是看着看着就回走神，看到的文字都没有过脑，仿佛眼睛连接大脑的神经断开了。到现在这个问题都还没有完全解决，看着看着就回走神，虽然有所缓解（可能是因为小说的情节越往后越精彩吧），我会继续阅读，因为现在已经能从中获得一些快感，虽然暂时还是没有刷手机来的容易，但是那种心理上的轻松是手机无法带来的。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mac 鼠标测试 - M585]]></title>
+        <id>https://yli96923.github.io/post/mac-shu-biao-ce-shi-m585/</id>
+        <link href="https://yli96923.github.io/post/mac-shu-biao-ce-shi-m585/">
+        </link>
+        <updated>2024-11-23T01:22:42.000Z</updated>
+        <content type="html"><![CDATA[<p>Mac 上找鼠标，一直是困扰苹果用户很久的一个问题。我也一直想给自己的 Mac 配一个鼠标，就是想尝尝鲜，在哔哩哔哩上看了几个视频最后选了罗技的这款入门便宜鼠标 - M585。</p>
+<p>买了之后就把鼠标链接上了电脑，用的是蓝牙，发现总是有一点飘的感觉，后来又插上拓展坞再插上接收器，刚刚插上的时候还好，用了一会儿之后就会卡顿，就是拖动光标的过程中就会消失几厘米，然后重新出现。我的电脑是 2020 年 M1 芯片的 MacBook Air，搭配 MacOS Sonoma，用了之后发现还是电脑自带的触控板好用，虽然 M585 有侧键，但还是没有触控板上更加直观的手势操作好用，而且触控板在使用的时候不会有卡顿感。</p>
+<p>没办法，最后还是用回了触控板。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在 Mac 上装虚拟机的故事]]></title>
+        <id>https://yli96923.github.io/post/zai-mac-shang-zhuang-xu-ni-ji-de-gu-shi/</id>
+        <link href="https://yli96923.github.io/post/zai-mac-shang-zhuang-xu-ni-ji-de-gu-shi/">
+        </link>
+        <updated>2024-10-24T05:26:22.000Z</updated>
+        <content type="html"><![CDATA[<p>首先我尝试了使用 Parallels Desktop 这款大名鼎鼎的虚拟机软件。它一年的价格是99欧元，相当于七八百人民币，像我这种穷鬼学生是绝对掏不出这么多钱，但要是各位有这么多钱的话就还是购买正版吧。</p>
+<p><a href="https://macwk.com.cn/soft/parallels-desktop">我在这个网站上找到了破解版本</a>，根据网站上的指引安装好了之后，就可以在PD里面让它自动下载 Win11，再使用网站上的 Win11 激活工具激活，就可以使用了。用 Win11 系统的时候电脑还是会有一点点的温热（我这个是 M1 芯片的），但是都在完全可以接受的程度，腾讯柠檬显示的 cpu 温度大概在 40 到 50 度之间。</p>
+<p>随后我还试了一下免费的 UTM，UTM 配置起来会相对麻烦一些。首先去 GitHub 上面下载 UTM，安装好了之后需要自己去找一个系统的镜像文件，如果是 M 芯片的话需要找 Arm 版本的，微软官网上面是没有的，但是自己找应该也不算太难。由于我已经在 PD 里面配置好了 Win11，我就在 UTM 里面装了一个 Fedora（linux）系统，非常简单，<a href="https://mac.getutm.app/gallery/">首先进入这个网站</a>，就是 UTM 提供的一些系统文件，也包含 win10/11，里面就有 Fedora。下载完之后是一个压缩包，解压之后就直接是一个 UTM 文件了，双击自动在 UTM 里面打开，选择自带的用户「fedora」，输入密码「fedora」，就进入系统了，简单配置一下就可以使用了。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我用 Mac 玩 MC 的那些事儿]]></title>
+        <id>https://yli96923.github.io/post/wo-yong-mac-wan-mc-de-na-xie-shi-er/</id>
+        <link href="https://yli96923.github.io/post/wo-yong-mac-wan-mc-de-na-xie-shi-er/">
+        </link>
+        <updated>2024-10-22T02:28:25.000Z</updated>
+        <content type="html"><![CDATA[<p>我的电脑是一台 M1 版本的 Macbook Air ，Mac 自从发布，就没有什么 3A 游戏能够很好的在上面运行。比如说我喜欢的 GTA ，它更是一个都玩不了，连 20 年前的圣安地列斯都玩不了。但是，我最近发现这个什么都玩不了的电脑竟然能够原生运行 MC ！</p>
+<p>我是在哔哩哔哩上找到了<a href="https://www.bilibili.com/video/BV1tj411z7xa/?spm_id_from=333.337.search-card.all.click&amp;vd_source=4f9ce11fce5dd66b757b647856f27c78">这个视频</a>，然后跟着一步一步做完，就能够玩了。大家可以去支持一下原作者，真的不错，也很方便。</p>
+<p>首先去下载甲骨文做的 Java 启动器，然后再下载 HMCL 启动器，就可以打开管理页面了，下载好游戏之后就可以开始游玩了。整个过程都是免费的，不用花一分钱。不过可能还是要买个鼠标，可能是因为我比较菜，真的没法做到用触控板打游戏。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[教你怎么零成本搭建自己的博客]]></title>
+        <id>https://yli96923.github.io/post/jiao-ni-zen-me-ling-cheng-ben-da-jian-zi-ji-de-bo-ke/</id>
+        <link href="https://yli96923.github.io/post/jiao-ni-zen-me-ling-cheng-ben-da-jian-zi-ji-de-bo-ke/">
+        </link>
+        <updated>2024-10-19T10:35:33.000Z</updated>
+        <content type="html"><![CDATA[<p>跟着这个教程来，你就能搭建一个我这样的博客！本次使用的工具是 Gridea 和 Github Pages，Github 上不去的话可能需要梯子辅助。</p>
+<p>首先找到 Gridea 在 Github 上面的项目，不是 Gridea 自己的网站（那个收费）。<a href="https://github.com/getgridea/gridea">也可以点击这个网址</a>直接跳转。在页面的右边找到「Releases」选项，选择最新的一个下载你的操作系统对应的版本然后安装就好了。</p>
+<figure data-type="image" tabindex="1"><img src="https://raw.githubusercontent.com/yli96923/pictures/master/%E6%88%AA%E5%B1%8F2024-10-20%2012.25.06.png?token=BBUKJ2IK6SUU5OBLLGP3J23HC5QII" alt="" loading="lazy"></figure>
+<p>安装好了之后，打开 Gridea，在页面左边找到「远程」，然后打开 Github，创建一个仓库，名称叫做「你的用户名.github.io」，然后不用更改其他选项，直接创建就好。然后创建一个 Token，<a href="https://github.com/settings/tokens/new">可以直接点击这个链接跳转</a>，「Note」可以填写一个好记得名字，例如「Gridea」，「Expiration」是这个 Token 的有效期，按需填写，最后在「<strong>Select scopes</strong>」选项里面勾选上「Repo」以及下面的所有选项，然后创建 Token，别忘了<strong>复制下来</strong>，因为关闭页面之后就再也找不到这个 Token 了！</p>
+<figure data-type="image" tabindex="2"><img src="https://raw.githubusercontent.com/yli96923/pictures/master/%E6%88%AA%E5%B1%8F2024-10-20%2012.31.00.png?token=BBUKJ2PTWXS7GXHLJF2QHTTHC5QMU" alt="" loading="lazy"></figure>
+<p>打开 Gridea，选择左边的「远程」选项，根据你的信息配置就好了，大家可以以参考我的配置，不过「域名」「仓库名称」和「仓库用户名」都要填你自己的，「令牌」就是刚刚复制的 Token。随后点击保存和同步，等一会儿再登上你的网站就可以看到内容了！然后再把想要发布的内容在 Gridea 里面发布，就会直接同步到你的网站上，排版什么的都已经完成好了。</p>
+<figure data-type="image" tabindex="3"><img src="https://raw.githubusercontent.com/yli96923/pictures/master/%E6%88%AA%E5%B1%8F2024-10-20%2012.25.56.png?token=BBUKJ2MIUIVDEGWG4375TZ3HC5QQE" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MacOS Sequoia，究竟更新了什么？]]></title>
+        <id>https://yli96923.github.io/post/macos-sequoiajiu-jing-geng-xin-liao-shi-me/</id>
+        <link href="https://yli96923.github.io/post/macos-sequoiajiu-jing-geng-xin-liao-shi-me/">
+        </link>
+        <updated>2024-09-03T14:31:25.000Z</updated>
+        <content type="html"><![CDATA[<p>从 MacOS Ventura（13），MacOS 的设计已经和 IOS 和 iPadOS 的设计有些趋同了，可以说是为 M 系列芯片的 Mac 专门设计的。马上，大概今年九月份或者十月份，MacOS Sequoia 就要正式发布了，前段时间我也是升级到了测试版体验过。先说总结: 新功能不少。</p>
+<p>首先，MacOS Sequoia 的最大亮点自然是搭配了「Apple Intelligence」，就是苹果自己的人工智能。但是现在还体验不到，也不清楚会在什么时候发布。并且这个功能只能在搭载 M 芯片的电脑上使用。</p>
+<p>另外苹果还发布了新的分屏功能，之前饱受诟病的分屏终于可以退休了！主要是因为微软对分屏功能的版权到期了，苹果现在也可以使用。但是体验之后我的评价是：不如 Loop ，但是可能会越来越好。</p>
+<p>还有一个史诗级更新，就是可以在 Mac 上操作 iPhone 了！但是，你的 iPhone 必须更新到 iPhone 18，所以说我也用不了，因为我的手机太老了。但是看网上说还是很好用的。</p>
+<p>现在，苹果自带的「提醒事项」和「日历」终于可以同步啦！不过我也不用提醒事项，每次都用 Mac 自带的「便签」软件和定闹钟的方式提醒自己，「日历」软件我还是用的，但是没有和「提醒事项」同步的需求，但是如果你用提醒事项的话，这个功能就很好用，确实不错。</p>
+<p>还有一些其他的功能，例如单独的「密码」APP，更加强大的「计算器」等等。</p>
+<p>总结一下更新的功能：</p>
+<ul>
+<li>Apple Intelligence</li>
+<li>分屏</li>
+<li>Mac 操控 iPhone</li>
+<li>「提醒事项」和「日历」的同步</li>
+<li>单独的「密码」APP</li>
+<li>更强大的计算器</li>
+</ul>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[坐国际航班真是太痛苦啦！]]></title>
+        <id>https://yli96923.github.io/post/zuo-guo-ji-hang-ban-zhen-shi-tai-tong-ku-la/</id>
+        <link href="https://yli96923.github.io/post/zuo-guo-ji-hang-ban-zhen-shi-tai-tong-ku-la/">
+        </link>
+        <updated>2024-08-31T20:27:27.000Z</updated>
+        <content type="html"><![CDATA[<p>前段时间我从武汉坐飞机飞到了巴黎，因为我平时在巴黎上学。新冠疫情之后，武汉就再没有直接飞到巴黎的飞机了，这也导致我需要先坐飞机去北京，然后再去巴黎。去北京的时候都还好，因为航程没有超过两个小时。但是从北京到巴黎的那一段路就长了，有十个小时二十分钟。刚刚坐上飞机的前五个小时还好，睡了一会儿，玩了一下手机（飞机上没有网所以能玩的东西很少很少），总体来讲还是过得不算难受。</p>
+<p>随后的五个小时就开始痛苦了。首先，国航的座椅设计的非常不科学，对于我这种不太高的人来说，脖子几乎一直是悬空的，也导致后来靠在椅子上睡觉也很痛苦，然后我就睡不着觉了。然后我就在飞机前排座椅后面的小电视上面看了一个电影（看的是猩球崛起，我以前没看过），之后我就开始头疼了。可能是因为出发之前我的睡眠不是很规律，再加上那个小电视的画质真的是难受，看久了感觉眼睛都快瞎了，最后一直等下了飞机，坐上了网约车，打开窗户让凉风吹了半个小时之后才有所缓解。</p>
+<p>所以说大家在坐长途飞机的时候，最好还是下载一点好看的电影，在飞机上面用飞机的屏幕看很难受（分辨率和色彩都不行）。或者说播客也是可以的，不会占用那么大的内存。</p>
+]]></content>
+    </entry>
+</feed>

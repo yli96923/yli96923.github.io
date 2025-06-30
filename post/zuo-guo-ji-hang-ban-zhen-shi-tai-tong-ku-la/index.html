@@ -1,0 +1,134 @@
+<html>
+  <head>
+    <meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>坐国际航班真是太痛苦啦！ | Gridea</title>
+<link rel="shortcut icon" href="https://yli96923.github.io/favicon.ico?v=1751288963303">
+<link href="https://cdn.jsdelivr.net/npm/remixicon@2.3.0/fonts/remixicon.css" rel="stylesheet">
+<link rel="stylesheet" href="https://yli96923.github.io/styles/main.css">
+<link rel="alternate" type="application/atom+xml" title="坐国际航班真是太痛苦啦！ | Gridea - Atom Feed" href="https://yli96923.github.io/atom.xml">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700">
+
+
+
+    <meta name="description" content="前段时间我从武汉坐飞机飞到了巴黎，因为我平时在巴黎上学。新冠疫情之后，武汉就再没有直接飞到巴黎的飞机了，这也导致我需要先坐飞机去北京，然后再去巴黎。去北京的时候都还好，因为航程没有超过两个小时。但是从北京到巴黎的那一段路就长了，有十个小时二..." />
+    <meta name="keywords" content="" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
+    <script src="//cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.5.1/build/highlight.min.js"></script>
+  </head>
+  <body>
+    <div class="main">
+      <div class="main-content">
+        <div class="site-header">
+  <a href="https://yli96923.github.io">
+  <img class="avatar" src="https://yli96923.github.io/images/avatar.png?v=1751288963303" alt="">
+  </a>
+  <h1 class="site-title">
+    Gridea
+  </h1>
+  <p class="site-description">
+    温故而知新
+  </p>
+  <div class="menu-container">
+    
+  </div>
+  <div class="social-container">
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  </div>
+</div>
+
+        <div class="post-detail">
+          <article class="post">
+            <h2 class="post-title">
+              坐国际航班真是太痛苦啦！
+            </h2>
+            <div class="post-info">
+              <span>
+                2024-08-31
+              </span>
+              <span>
+                2 min read
+              </span>
+              
+            </div>
+            
+            <div class="post-content-wrapper">
+              <div class="post-content" v-pre>
+                <p>前段时间我从武汉坐飞机飞到了巴黎，因为我平时在巴黎上学。新冠疫情之后，武汉就再没有直接飞到巴黎的飞机了，这也导致我需要先坐飞机去北京，然后再去巴黎。去北京的时候都还好，因为航程没有超过两个小时。但是从北京到巴黎的那一段路就长了，有十个小时二十分钟。刚刚坐上飞机的前五个小时还好，睡了一会儿，玩了一下手机（飞机上没有网所以能玩的东西很少很少），总体来讲还是过得不算难受。</p>
+<p>随后的五个小时就开始痛苦了。首先，国航的座椅设计的非常不科学，对于我这种不太高的人来说，脖子几乎一直是悬空的，也导致后来靠在椅子上睡觉也很痛苦，然后我就睡不着觉了。然后我就在飞机前排座椅后面的小电视上面看了一个电影（看的是猩球崛起，我以前没看过），之后我就开始头疼了。可能是因为出发之前我的睡眠不是很规律，再加上那个小电视的画质真的是难受，看久了感觉眼睛都快瞎了，最后一直等下了飞机，坐上了网约车，打开窗户让凉风吹了半个小时之后才有所缓解。</p>
+<p>所以说大家在坐长途飞机的时候，最好还是下载一点好看的电影，在飞机上面用飞机的屏幕看很难受（分辨率和色彩都不行）。或者说播客也是可以的，不会占用那么大的内存。</p>
+
+              </div>
+              <div class="toc-container">
+                
+              </div>
+            </div>
+          </article>
+        </div>
+
+        
+
+        
+
+        <div class="site-footer">
+  Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a>
+  <a class="rss" href="https://yli96923.github.io/atom.xml" target="_blank">
+    <i class="ri-rss-line"></i> RSS
+  </a>
+</div>
+
+      </div>
+    </div>
+
+    <script>
+      hljs.initHighlightingOnLoad()
+
+      let mainNavLinks = document.querySelectorAll(".markdownIt-TOC a");
+
+      // This should probably be throttled.
+      // Especially because it triggers during smooth scrolling.
+      // https://lodash.com/docs/4.17.10#throttle
+      // You could do like...
+      // window.addEventListener("scroll", () => {
+      //    _.throttle(doThatStuff, 100);
+      // });
+      // Only not doing it here to keep this Pen dependency-free.
+
+      window.addEventListener("scroll", event => {
+        let fromTop = window.scrollY;
+
+        mainNavLinks.forEach((link, index) => {
+          let section = document.getElementById(decodeURI(link.hash).substring(1));
+          let nextSection = null
+          if (mainNavLinks[index + 1]) {
+            nextSection = document.getElementById(decodeURI(mainNavLinks[index + 1].hash).substring(1));
+          }
+          if (section.offsetTop <= fromTop) {
+            if (nextSection) {
+              if (nextSection.offsetTop > fromTop) {
+                link.classList.add("current");
+              } else {
+                link.classList.remove("current");    
+              }
+            } else {
+              link.classList.add("current");
+            }
+          } else {
+            link.classList.remove("current");
+          }
+        });
+      });
+
+    </script>
+  </body>
+</html>

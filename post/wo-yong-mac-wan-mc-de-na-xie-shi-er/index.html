@@ -1,0 +1,143 @@
+<html>
+  <head>
+    <meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>我用 Mac 玩 MC 的那些事儿 | Gridea</title>
+<link rel="shortcut icon" href="https://yli96923.github.io/favicon.ico?v=1751288963303">
+<link href="https://cdn.jsdelivr.net/npm/remixicon@2.3.0/fonts/remixicon.css" rel="stylesheet">
+<link rel="stylesheet" href="https://yli96923.github.io/styles/main.css">
+<link rel="alternate" type="application/atom+xml" title="我用 Mac 玩 MC 的那些事儿 | Gridea - Atom Feed" href="https://yli96923.github.io/atom.xml">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700">
+
+
+
+    <meta name="description" content="我的电脑是一台 M1 版本的 Macbook Air ，Mac 自从发布，就没有什么 3A 游戏能够很好的在上面运行。比如说我喜欢的 GTA ，它更是一个都玩不了，连 20 年前的圣安地列斯都玩不了。但是，我最近发现这个什么都玩不了的电脑竟..." />
+    <meta name="keywords" content="" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
+    <script src="//cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.5.1/build/highlight.min.js"></script>
+  </head>
+  <body>
+    <div class="main">
+      <div class="main-content">
+        <div class="site-header">
+  <a href="https://yli96923.github.io">
+  <img class="avatar" src="https://yli96923.github.io/images/avatar.png?v=1751288963303" alt="">
+  </a>
+  <h1 class="site-title">
+    Gridea
+  </h1>
+  <p class="site-description">
+    温故而知新
+  </p>
+  <div class="menu-container">
+    
+  </div>
+  <div class="social-container">
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  </div>
+</div>
+
+        <div class="post-detail">
+          <article class="post">
+            <h2 class="post-title">
+              我用 Mac 玩 MC 的那些事儿
+            </h2>
+            <div class="post-info">
+              <span>
+                2024-10-22
+              </span>
+              <span>
+                1 min read
+              </span>
+              
+            </div>
+            
+            <div class="post-content-wrapper">
+              <div class="post-content" v-pre>
+                <p>我的电脑是一台 M1 版本的 Macbook Air ，Mac 自从发布，就没有什么 3A 游戏能够很好的在上面运行。比如说我喜欢的 GTA ，它更是一个都玩不了，连 20 年前的圣安地列斯都玩不了。但是，我最近发现这个什么都玩不了的电脑竟然能够原生运行 MC ！</p>
+<p>我是在哔哩哔哩上找到了<a href="https://www.bilibili.com/video/BV1tj411z7xa/?spm_id_from=333.337.search-card.all.click&amp;vd_source=4f9ce11fce5dd66b757b647856f27c78">这个视频</a>，然后跟着一步一步做完，就能够玩了。大家可以去支持一下原作者，真的不错，也很方便。</p>
+<p>首先去下载甲骨文做的 Java 启动器，然后再下载 HMCL 启动器，就可以打开管理页面了，下载好游戏之后就可以开始游玩了。整个过程都是免费的，不用花一分钱。不过可能还是要买个鼠标，可能是因为我比较菜，真的没法做到用触控板打游戏。</p>
+
+              </div>
+              <div class="toc-container">
+                
+              </div>
+            </div>
+          </article>
+        </div>
+
+        
+          <div class="next-post">
+            <div class="next">下一篇</div>
+            <a href="https://yli96923.github.io/post/jiao-ni-zen-me-ling-cheng-ben-da-jian-zi-ji-de-bo-ke/">
+              <h3 class="post-title">
+                教你怎么零成本搭建自己的博客
+              </h3>
+            </a>
+          </div>
+        
+
+        
+
+        <div class="site-footer">
+  Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a>
+  <a class="rss" href="https://yli96923.github.io/atom.xml" target="_blank">
+    <i class="ri-rss-line"></i> RSS
+  </a>
+</div>
+
+      </div>
+    </div>
+
+    <script>
+      hljs.initHighlightingOnLoad()
+
+      let mainNavLinks = document.querySelectorAll(".markdownIt-TOC a");
+
+      // This should probably be throttled.
+      // Especially because it triggers during smooth scrolling.
+      // https://lodash.com/docs/4.17.10#throttle
+      // You could do like...
+      // window.addEventListener("scroll", () => {
+      //    _.throttle(doThatStuff, 100);
+      // });
+      // Only not doing it here to keep this Pen dependency-free.
+
+      window.addEventListener("scroll", event => {
+        let fromTop = window.scrollY;
+
+        mainNavLinks.forEach((link, index) => {
+          let section = document.getElementById(decodeURI(link.hash).substring(1));
+          let nextSection = null
+          if (mainNavLinks[index + 1]) {
+            nextSection = document.getElementById(decodeURI(mainNavLinks[index + 1].hash).substring(1));
+          }
+          if (section.offsetTop <= fromTop) {
+            if (nextSection) {
+              if (nextSection.offsetTop > fromTop) {
+                link.classList.add("current");
+              } else {
+                link.classList.remove("current");    
+              }
+            } else {
+              link.classList.add("current");
+            }
+          } else {
+            link.classList.remove("current");
+          }
+        });
+      });
+
+    </script>
+  </body>
+</html>
